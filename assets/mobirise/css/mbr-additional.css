@@ -1,6 +1,8 @@
+@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -477,4 +479,8 @@ h6,
 #menu-d .link[aria-expanded="true"],
 #menu-d .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#features3-e H4 {
+  text-align: center;
+  font-family: 'Arimo', sans-serif;
 }
