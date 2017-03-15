@@ -44,7 +44,8 @@
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000"
+              "color": "#000000",
+              "text-align": "center"
             },
             ".mbr-section-lead": {
               "color": "#9c9a9a"
@@ -57,11 +58,11 @@
           "_anchor": "header5-2",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/img002-1-2000x1475.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/pic.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -71,7 +72,7 @@
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false
           },
           "title": "Nele Kinne",
