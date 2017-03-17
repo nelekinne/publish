@@ -1,7 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Arimo:400,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -413,22 +414,17 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header5-2 .mbr-section-title {
-  color: #000000;
-  text-align: center;
-}
-#header5-2 .mbr-section-lead {
-  color: #9c9a9a;
-}
 #features3-e H4 {
   text-align: center;
-  font-family: 'Arimo', sans-serif;
+  font-family: 'Merriweather', serif;
 }
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-k .navbar-caption {
   color: #ffffff;
+  font-size: 32px;
+  font-family: 'Merriweather', serif;
 }
 #menu-k .navbar-toggler {
   color: #ffffff;
@@ -456,19 +452,19 @@ h6,
 }
 #menu-k .link[aria-expanded="true"],
 #menu-k .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #menu-k .nav-dropdown-sm .link:focus,
 #menu-k .nav-dropdown-sm .link:hover,
 #menu-k .nav-dropdown-sm .dropdown-item:focus,
 #menu-k .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #menu-k .navbar,
 #menu-k .nav-dropdown-sm,
 #menu-k .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-k .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #menu-k .bg-color.transparent .link {
   color: #ffffff;
@@ -485,11 +481,14 @@ h6,
 #menu-k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-k .navbar-caption {
   color: #ffffff;
+  font-size: 32px;
+  font-family: 'Merriweather', serif;
 }
 #menu-k .navbar-toggler {
   color: #ffffff;
@@ -517,19 +516,19 @@ h6,
 }
 #menu-k .link[aria-expanded="true"],
 #menu-k .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #menu-k .nav-dropdown-sm .link:focus,
 #menu-k .nav-dropdown-sm .link:hover,
 #menu-k .nav-dropdown-sm .dropdown-item:focus,
 #menu-k .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #menu-k .navbar,
 #menu-k .nav-dropdown-sm,
 #menu-k .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-k .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #menu-k .bg-color.transparent .link {
   color: #ffffff;
@@ -546,11 +545,14 @@ h6,
 #menu-k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #menu-k .hide-buttons .nav-btn {
   display: none !important;
 }
 #menu-k .navbar-caption {
   color: #ffffff;
+  font-size: 32px;
+  font-family: 'Merriweather', serif;
 }
 #menu-k .navbar-toggler {
   color: #ffffff;
@@ -578,19 +580,19 @@ h6,
 }
 #menu-k .link[aria-expanded="true"],
 #menu-k .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #menu-k .nav-dropdown-sm .link:focus,
 #menu-k .nav-dropdown-sm .link:hover,
 #menu-k .nav-dropdown-sm .dropdown-item:focus,
 #menu-k .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #menu-k .navbar,
 #menu-k .nav-dropdown-sm,
 #menu-k .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-k .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #menu-k .bg-color.transparent .link {
   color: #ffffff;
@@ -607,6 +609,7 @@ h6,
 #menu-k .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+
 #form1-i .form-control-label {
   color: #232323;
 }
@@ -615,6 +618,8 @@ h6,
 }
 #menu-k .navbar-caption {
   color: #ffffff;
+  font-size: 32px;
+  font-family: 'Merriweather', serif;
 }
 #menu-k .navbar-toggler {
   color: #ffffff;
@@ -642,19 +647,19 @@ h6,
 }
 #menu-k .link[aria-expanded="true"],
 #menu-k .dropdown-menu {
-  background: #0e0e0e;
+  background: #000000;
 }
 #menu-k .nav-dropdown-sm .link:focus,
 #menu-k .nav-dropdown-sm .link:hover,
 #menu-k .nav-dropdown-sm .dropdown-item:focus,
 #menu-k .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #000000!important;
 }
 #menu-k .navbar,
 #menu-k .nav-dropdown-sm,
 #menu-k .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-k .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #000000;
 }
 #menu-k .bg-color.transparent .link {
   color: #ffffff;
