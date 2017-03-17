@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-20_1614",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -269,8 +269,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img002-2000x1475-800x590.jpg",
-                "image": "@PROJECT_PATH@/assets/images/img002-2000x1475.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img002-800x590.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img002.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -282,7 +282,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img003-2000x1504-800x601.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img003-2000x1504.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
@@ -562,7 +562,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/img024-2000x1511-800x604.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img024-2000x1511.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
             "spacing": 1,
