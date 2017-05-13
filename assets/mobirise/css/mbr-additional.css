@@ -7,6 +7,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -479,6 +480,13 @@ h6,
 }
 #features3-n H4 {
   text-align: center;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+#social-buttons4-u .mbr-section-title,
+#social-buttons4-u .btn-social {
+  color: #fff;
+}
+#social-buttons4-u .mbr-section-title {
   font-family: 'PT Sans Narrow', sans-serif;
 }
 
