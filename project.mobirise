@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "NewSite-02-20_1614",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -713,8 +713,8 @@
           ],
           "_name": "gallery3",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": "4",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Awesome",
@@ -723,16 +723,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/werk1-2000x1374-800x549.jpg",
                 "image": "@PROJECT_PATH@/assets/images/werk1-2000x1374.jpg",
-                "caption": "Type caption here",
+                "caption": "",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/werk2-2000x1492-800x596.jpg",
-                "image": "@PROJECT_PATH@/assets/images/werk2-2000x1492.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/werk5-2000x2656-800x1062.jpg",
+                "image": "@PROJECT_PATH@/assets/images/werk5-2000x2656.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -747,12 +747,12 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/werk5-2000x2656-800x1062.jpg",
-                "image": "@PROJECT_PATH@/assets/images/werk5-2000x2656.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/werk2-2000x1492-800x596.jpg",
+                "image": "@PROJECT_PATH@/assets/images/werk2-2000x1492.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -773,6 +773,16 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/werk10-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/werk10-2000x2000.jpg",
+                "caption": "gouache on plank",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/work1-800x1150.jpg",
+                "image": "@PROJECT_PATH@/assets/images/work1.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -804,10 +814,20 @@
                 "thumb": "@PROJECT_PATH@/assets/images/tekening-800x1040.jpg",
                 "image": "@PROJECT_PATH@/assets/images/tekening.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/work2-800x1012.jpg",
+                "image": "@PROJECT_PATH@/assets/images/work2.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": 1,
+            "spacing": "1",
             "showText": false,
             "filter": false,
             "bgColor": "#000000",
